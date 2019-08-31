@@ -1,6 +1,6 @@
 # Mac_language_toggler
-Update Apple keyboard language switch to windows based one.
-This json file is for English to Hebrew, but can be easily updated to any other languages.
+Update Apple keyboard language switch (Ctrl+Space) to windows based one (Alt+Shift).  
+This json file is for English to Hebrew, but can be easily updated to any other language.
 
 1. Download and install Karabiner (https://pqrs.org/osx/karabiner/)
 2. Open Terminal.app and type open ~/.config
